@@ -20,7 +20,7 @@ Mau custom web ucapan online? Order Aja di Deka Tutorial !! (DM untuk order)
 
 konten = [
   {
-    gambar: "https://ibb.co.com/fdK5MGRK",
+    gambar: "IMG-20260321-WA0003.jpg",
     ucapan: "UcapanKalian",
   },
 ];
